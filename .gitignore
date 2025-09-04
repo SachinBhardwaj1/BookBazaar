@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+target/
+node_modules/
+.DS_Store
+.env
+frontend/dist/
